@@ -9,7 +9,7 @@ export default function Dashboard() {
     <div className="bg-[#020018] w-screen h-screen">
       <Navbar />
       <Sidebar />
-      <div className='ml-64 p-10'>
+      <div className='md:ml-64 p-10'>
         <div className="flex items-center justify-between">
           <div className="flex flex-col">
             <h1 className="text-2xl font-bold text-white">Projects</h1>
